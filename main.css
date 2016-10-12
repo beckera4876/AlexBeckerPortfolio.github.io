@@ -73,7 +73,7 @@ body {
 		margin-bottom; 20px;
 	}
 	#hobbies {
-		backround: url(images/scratchLogo.psd) no-repeat 20px center;
+		
 		font-size: 90%;
 		float: right;
 		width: 450px;
@@ -92,5 +92,6 @@ body {
 	}
 	#events p {
 		text-align: center;
+		background: url(images/scratchLogo.png)no-repeat 25px center;
 	}
 	
