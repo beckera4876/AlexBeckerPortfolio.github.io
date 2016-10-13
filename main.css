@@ -72,6 +72,9 @@ body {
 		line-height: 1.6;
 		margin-bottom; 20px;
 	}
+	#content ul li {
+		font-size:20px;
+	}
 	#hobbies {
 		
 		font-size: 90%;
@@ -91,7 +94,9 @@ body {
 		color: #666;
 	}
 	#events p {
-		text-align: left;
-		
+		text-align: center;
+		font-size:25px;
 	}
+	
+	
 	
