@@ -69,7 +69,7 @@ body {
 	}
 	#content p {
 		color: #666
-		line-height: 1.6;
+		line-height 1.6;
 		margin-bottom: 20px;
 	}
 	#content ul li {
@@ -96,7 +96,6 @@ body {
 	#events p {
 		text-align: right;
 		font-size:25px;
-		
 	}
 	
 	
